@@ -14,8 +14,6 @@ git clone https://github.com/Harshithpabbati/Weather-app.git
 ```
 npm install
 ```
-
-<p>Time to run it locally</p>
 ```
 node index.js
 ```
