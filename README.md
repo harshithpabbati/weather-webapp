@@ -9,7 +9,7 @@
 sudo-apt get update
 git clone https://github.com/Harshithpabbati/Weather-app.git
 ```
-<p>Now you need to install the dependicies</p>
+<p>Now you need to install the dependencies</p>
 
 ```
 npm install
